@@ -10,6 +10,12 @@
     cdrkit
     cloud-utils
     qemu
+    docker
+    neofetch
+    libuuid
+    docker-compose
+    docker-client
+    apt
   ];
 
   env = {
